@@ -1,0 +1,2 @@
+# Ajiguna
+Aplikasi POS
